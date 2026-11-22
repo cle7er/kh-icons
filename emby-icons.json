@@ -1,22 +1,54 @@
 {
   "name": "KlausHome",
-  "description": "KlausHome 家庭影院自定义图标库（KH 圆形胶片徽记）",
+  "description": "KlausHome 家庭影院自定义图标库（KH 系列徽记，共 5 款，每款含深底与透明底）",
   "icons": [
     {
+      "name": "kh",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh.png"
+    },
+    {
+      "name": "kh-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-transparent.png"
+    },
+    {
       "name": "emby",
-      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh.png"
     },
     {
       "name": "KlausHome",
-      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh.png"
     },
     {
-      "name": "kh",
-      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+      "name": "kh-film",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-film.png"
     },
     {
-      "name": "kh-logo",
-      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo-transparent.png"
+      "name": "kh-film-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-film-transparent.png"
+    },
+    {
+      "name": "kh-seal",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-seal.png"
+    },
+    {
+      "name": "kh-seal-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-seal-transparent.png"
+    },
+    {
+      "name": "kh-ring",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-ring.png"
+    },
+    {
+      "name": "kh-ring-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-ring-transparent.png"
+    },
+    {
+      "name": "kh-circle",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-circle.png"
+    },
+    {
+      "name": "kh-circle-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-circle-transparent.png"
     }
   ]
 }
