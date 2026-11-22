@@ -1,0 +1,22 @@
+{
+  "name": "KlausHome",
+  "description": "KlausHome 家庭影院自定义图标库（KH 圆形胶片徽记）",
+  "icons": [
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+    },
+    {
+      "name": "KlausHome",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+    },
+    {
+      "name": "kh",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo.png"
+    },
+    {
+      "name": "kh-logo",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-logo-transparent.png"
+    }
+  ]
+}
