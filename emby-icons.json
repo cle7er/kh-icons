@@ -1,6 +1,6 @@
 {
   "name": "KlausHome",
-  "description": "KlausHome 家庭影院自定义图标库（KH 系列徽记，共 5 款，每款含深底与透明底）",
+  "description": "KlausHome 家庭影院自定义图标库（KH 系列徽记，含经典款与无外圆新方向款；每款含深底与透明底）",
   "icons": [
     {
       "name": "kh",
@@ -49,6 +49,30 @@
     {
       "name": "kh-circle-transparent",
       "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-circle-transparent.png"
+    },
+    {
+      "name": "kh-wordmark",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-wordmark.png"
+    },
+    {
+      "name": "kh-wordmark-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-wordmark-transparent.png"
+    },
+    {
+      "name": "kh-wordmark-dark-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-wordmark-dark-transparent.png"
+    },
+    {
+      "name": "kh-strip",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-strip.png"
+    },
+    {
+      "name": "kh-strip-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-strip-transparent.png"
+    },
+    {
+      "name": "kh-strip-dark-transparent",
+      "url": "https://raw.githubusercontent.com/cle7er/kh-icons/main/icons/kh-strip-dark-transparent.png"
     }
   ]
 }
